@@ -80,6 +80,7 @@ body{
 }
 
 img{
+    cursor: pointer;
     height: 25px;
     opacity: 0;
     /* animação de opacidade */
